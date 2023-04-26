@@ -1,0 +1,18 @@
+{
+  "frontendFolder": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/./frontend/generated/jar-resources",
+  "staticOutput": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/src/main/dev-bundle/webapp",
+  "devBundleStatsOutput": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/src/main/dev-bundle/config",
+  "jarResourcesFolder": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/./frontend/generated/jar-resources",
+  "generatedFlowImportsFolder": "target/frontend",
+  "themeName": "",
+  "clientServiceWorkerSource": "/Users/kunal/College/SixthSem/OOPS/project_trail/MVC-inventory_management_system/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
